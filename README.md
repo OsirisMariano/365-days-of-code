@@ -1,41 +1,50 @@
-# 🚀 365 Days of Code - Ruby Journey
+# 🚀 Minha Jornada Ruby: 365 Dias de Código
 
-Bem-vindo ao meu repositório de aprendizado contínuo! Aqui registo a minha evolução diária na programação, focando-me inicialmente em **Ruby** e boas práticas de engenharia de software. O objetivo é transformar a lógica simples em sistemas robustos e modulares.
+Este repositório é o registro da minha transformação em um desenvolvedor. Cada mês representa um novo degrau de complexidade e uma nova ferramenta no meu cinto de utilidades. 🛠️
 
-## 📅 Mês 01: Fundamentos do Ruby
-Acompanhamento da evolução técnica desde a sintaxe básica até à modularização.
+---
 
-- [x] **Semana 1:** Lógica, Fluxo e Modularização.
-- [ ] **Semana 2:** Programação Orientada a Objetos (POO).
+## 🗺️ O Roadmap do Ano
+
+### 🟢 Fase 1: Fundamentos e Lógica de Terminal
+* **Mês 01: Conversor de Unidades** 📏
+    > Foco em variáveis, tipos de dados e entrada/saída (`gets`/`puts`).
+* **Mês 02: Calculadora de IMC com Histórico** ⏳ *(Em breve)*
+    > Foco em estruturas de controle (`if`/`else`) e armazenamento em `Arrays`.
+* **Mês 03: Jogo de Adivinhação (Forca/RPG)** ⏳ *(Em breve)*
+    > Foco em laços de repetição (`loops`) e organização por **Métodos**.
+* **Mês 04: Agenda de Contatos em CSV** ⏳ *(Em breve)*
+    > Foco em manipulação de arquivos e persistência de dados real.
+
+### 🔵 Fase 2: Orientação a Objetos e Ferramentas
+* **Mês 05: Sistema de Biblioteca (POO)** ⏳ *(Em breve)*
+    > Entrada no mundo das Classes, Objetos e Encapsulamento.
+* **Mês 06: Gerenciador de Tarefas Avançado** ⏳ *(Em breve)*
+    > Uso de Herança, Módulos e Mixins do Ruby.
+* **Mês 07: Verificador de Links / Web Scraper** ⏳ *(Em breve)*
+    > Uso de **Gems** (bibliotecas externas) e requisições HTTP.
+
+### 🟠 Fase 3: Rumo ao Desenvolvimento Web
+* **Mês 08: Primeira API com Sinatra** ⏳ *(Em breve)*
+    > O primeiro passo fora do terminal: rotas e respostas HTTP.
+* **Mês 09: Blog Minimalista com Ruby on Rails** ⏳ *(Em breve)*
+    > Domínio do padrão **MVC** (Model, View, Controller).
+* **Mês 10: Sistema de Autenticação** ⏳ *(Em breve)*
+    > Foco em segurança, criptografia de senhas e sessões de usuário.
+
+### 🔴 Fase 4: Projetos de Engenharia Completos
+* **Mês 11: App de Lista de Desejos Pro** ⏳ *(Em breve)*
+    > Banco de dados relacional (PostgreSQL) e associações complexas.
+* **Mês 12: Projeto Final: Clone de Rede Social** ⏳ *(Em breve)*
+    > O ápice: Upload de fotos, comentários em tempo real e Deploy na nuvem.
 
 ---
 
 ## 💼 Estrutura do Projeto
 
-O projeto é organizado por módulos técnicos para facilitar a navegação:
-
-* **`ruby-fundamentals/`**: Exercícios focados na sintaxe da linguagem, lógica de programação e POO.
-    * `01-unit-converter/`: Um conversor de medidas que evoluiu de um script simples (v1) para um sistema modularizado com métodos e histórico (v5).
-    * `02-banking-system/`: (Em breve) Simulador de operações bancárias.
+* **`ruby-fundamentals/`**: Exercícios focados na base da linguagem.
+    * `01-unit-converter/`: Conversor v5 (modularizado com métodos).
+    * `02-banking-system/`: (Desenvolvimento atual) Simulador de caixa eletrônico.
 
 ---
-
-## 🛠️ Evolução Diária
-
-### Semana 1: Fundamentos e Lógica
-- **Dia 01:** Variáveis, entrada de dados (`gets`) e cálculos básicos.
-- **Dia 02:** Estruturas condicionais (`if/elsif/else`) e gerenciamento de branches Git.
-- **Dia 03:** Laços de repetição (`while`), seleção múltipla (`case/when`) e refatoração de diretórios.
-- **Dia 04:** Estrutura de dados com **Arrays (Listas)** e criação de histórico de operações.
-- **Dia 05:** **Modularização com Métodos (`def`)**, passagem de parâmetros e retorno de valores (*Clean Code*).
-
----
-
-## 🚀 Como rodar os desafios
-
-Certifique-se de ter o Ruby instalado. No terminal, navegue até a pasta do projeto e execute:
-
-```bash
-# Exemplo para rodar a versão mais recente do conversor
-cd ruby-fundamentals/01-unit-converter
-ruby conversor_v5.rb
+*Documentando cada commit rumo à senioridade.*
